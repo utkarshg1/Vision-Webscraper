@@ -2,3 +2,4 @@ python-dotenv
 selenium
 openai
 streamlit
+requests
